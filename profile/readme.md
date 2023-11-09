@@ -31,7 +31,7 @@ Your business deserves a blockchain solution that's as unique as it is. Here’s
 
 We understand that adopting blockchain technology can be a significant step. That's why we offer a **free consultation** to discuss your needs and how our expertise can help elevate your business.
 
-To get started, [contact us](mailto:info@pyxelchain.com) with your project details, timeline, and budget for a personalized approach.
+To get started, [contact us](https://pyxelchain.com/services) with your project details, timeline, and budget for a personalized approach.
 
 ## Important Note
 
@@ -42,7 +42,7 @@ Let's build the future together with PyxelChain Technology.
 ---
 
 For general inquiries, please reach out to us at:
-- **Email**: contact@pyxelchain.com
+- **Email**: `info@pyxelchain.com`
 - **LinkedIn**: [PyxelChain Technology](https://www.linkedin.com/company/pyxelchain)
 
 We look forward to collaborating with you!
